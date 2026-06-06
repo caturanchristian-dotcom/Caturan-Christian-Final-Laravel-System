@@ -1,5 +1,11 @@
 
+EggMarket: A Modern Digital Marketplace and Supply Chain Management System
 
+admin account
+email: admin@egg.com pass: admin123
+
+Farmer account
+email: chan@gmail.com pass: chan123456789
 
 EggMarket is a web-based digital marketplace and supply chain 
 management system designed to connect egg farmers directly with 
